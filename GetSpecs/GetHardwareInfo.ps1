@@ -172,3 +172,5 @@ function getHardware(){
 }
 
 getHardware;
+
+exit
